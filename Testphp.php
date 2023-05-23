@@ -1,0 +1,1 @@
+<?php each "This is file PHP for test clone Github!!" ?>
